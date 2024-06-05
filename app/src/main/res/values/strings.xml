@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeMultiTheming</string>
+    <string name="use_system_theme_mode">Use system accent color</string>
+</resources>
